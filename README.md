@@ -11,3 +11,4 @@ We will use this repository to follow up and review all the exercises done in cl
 - 📆 [Office hours booking page](https://moodle.ucl.ac.uk/mod/url/view.php?id=6139032)
 
 #### TBH I'm not a student here, I'm just here with my gf.
+#### Please allow me to follow along to guide her.
